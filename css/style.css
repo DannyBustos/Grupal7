@@ -11,10 +11,10 @@
     background-color: black;
 }
 .galeria img{
-    max-height: 450px;
+    max-height: 400px;
 }
 .footer{
-    margin-top: 20px;
+    margin-top: 25px;
 }
 .footer p{
     padding: 20px;
